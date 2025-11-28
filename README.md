@@ -100,12 +100,12 @@ For detailed step-by-step instructions, see [INSTALLATION.md](INSTALLATION.md)
 ## Example Notifications
 
 ### Discord (Beacon - Green |  Session - Red)
-<p align="center">
+<p align="left">
   <img src="docs/images/image%201.png" alt="Discord Notification" width="500">
 </p>
 
 ### Slack
-<p align="center">
+<p align="left">
   <img src="docs/images/image%202.png" alt="Slack Notification" width="500">
 </p>
 
