@@ -129,7 +129,7 @@ For detailed step-by-step instructions, see [INSTALLATION.md](INSTALLATION.md)
 ├── n8n_workflow.json              # n8n workflow configuration
 ├── sliver-monitor.service         # Systemd service unit file
 ├── beacon_state.json              # Auto-generated state file
-└── CLAUDE.md                      # AI assistant context
+
 ```
 
 ---
