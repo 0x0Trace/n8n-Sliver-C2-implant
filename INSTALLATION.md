@@ -366,7 +366,7 @@ Deploy a Sliver implant to a test machine and wait for it to connect. You should
 
 ### Discord Output (Beacon - Green)
 
-![Discord Beacon Notification](docs/images/image%201.png)
+<img src="docs/images/image%201.png" alt="Discord Notification" width="500">
 
 **Features:**
 - Green color for beacons (color code: 3066993)
