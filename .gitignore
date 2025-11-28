@@ -1,0 +1,37 @@
+# Claude Code internal files
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# State files (contains connection IDs)
+beacon_state.json
+
+# Environment variables and secrets
+.env
+.env.local
+*.cfg
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
